@@ -76,7 +76,7 @@ hr {
   transition: all 0.8s;
 }
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #5DA1FC;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -90,7 +90,7 @@ hr {
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #ffffff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -271,6 +271,7 @@ header .intro-text {
 #about h2 {
   position: relative;
   margin-bottom: 15px;
+  margin-top: 30px;
   padding-bottom: 15px;
 }
 #about h2::after {
@@ -305,7 +306,8 @@ header .intro-text {
 }
 #about p {
   line-height: 24px;
-  margin: 30px 0;
+  margin: 45px 0;
+  font-size: 18px;
 }
 /* Services Section */
 #services {
