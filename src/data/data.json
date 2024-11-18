@@ -1,22 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Fundacion protegeme",
+    "paragraph": "Unidos por la infancia, comprometidos con su bienestar"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
   },
   "Gallery": [
     {
@@ -152,33 +141,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Av. Contoy esq. Bacalar SM. 19 Mz 2 Lote 54 77505 Cancún México",
+    "phone": "+52 998 845 8497",
+    "email": "veroaca@yahoo.com",
+    "facebook": "https://www.facebook.com/fundacionprotegeme.org",
+    "twitter": "https://x.com/ProtegemeAC",
+    "youtube": "https://www.youtube.com/@fundacionprotegeme3740"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-shield",
+      "title": "Prevención diaria",
+      "text": "Trabajamos todos los días en la prevención de estos delitos, buscando que todos los niños de nuestro estado tengan la seguridad de un mejor futuro y que se respeten sus derechos."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Concientización social",
+      "text": "Las tareas que realiza esta agrupación están enfocadas a prevenir y concientizar a la sociedad sobre el daño que sufren nuestros niños que son abusados sexualmente."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Impulso a la denuncia",
+      "text": "Buscamos que aquellas personas que han sufrido por estos delitos, denuncien los hechos."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-gavel",
+      "title": "Justicia y derechos",
+      "text": "A la vez que la justicia lleve a cabo una tarea expedita y directa, atendiendo a las personas que por error u omisión no conocen sus derechos."
     }
   ]
 }
