@@ -17,7 +17,7 @@ export const Header = (props) => {
                   href="#features"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Dona ahora!
+                  Contactanos Ahora!
                 </a>{" "}
               </div>
             </div>

@@ -75,6 +75,23 @@ hr {
   padding: 15px;
   transition: all 0.8s;
 }
+#menu .navbar-header {
+  display: flex;
+  align-items: center;
+}
+
+#menu .navbar-header .navbar-brand {
+  margin: 0; /* Elimina márgenes que puedan afectar el alineamiento */
+  padding: 15px 0; /* Ajusta el espacio vertical */
+  font-size: 18px; /* Ajusta el tamaño del texto si es necesario */
+}
+
+#menu .navbar-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Asegura que los enlaces estén alineados a la derecha */
+}
+
 #menu.navbar-default {
   background-color: #5DA1FC;
   border-color: rgba(231, 231, 231, 0);
@@ -131,7 +148,13 @@ hr {
 }
 .navbar-toggle {
   border-radius: 0;
+  border: none;
+  
 }
+#menu .navbar-toggle .icon-bar {
+  background-color: #000000; 
+}
+
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
@@ -140,6 +163,8 @@ hr {
 .navbar-default .navbar-toggle:hover > .icon-bar {
   background-color: #608dfd;
 }
+
+
 .section-title {
   margin-bottom: 70px;
 }
@@ -604,5 +629,15 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+@media (max-width: 768px) {
+  .navbar-nav {
+    display: flex;
+    flex-direction: column; /* Asegura que las opciones estén apiladas */
+    text-align: center; /* Centra los enlaces */
+  }
+  .navbar-nav > li > a {
+    padding: 10px 0; /* Ajusta el espaciado entre las opciones */
   }
 }
