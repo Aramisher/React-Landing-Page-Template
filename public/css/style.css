@@ -265,13 +265,14 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
+  padding-top: 150px;
   padding-bottom: 200px;
   text-align: center;
 }
 /* Features Section */
 #features {
   background: #f6f6f6;
+  padding: 75px 0; /* Cambia el valor para ajustar la altura */
 }
 #features i.fa {
   font-size: 38px;
@@ -625,6 +626,14 @@ label {
 #footer a:hover {
   border-bottom: 2px solid #608dfd;
 }
+
+/* Logo en el header */
+.header-logo {
+  max-width: 300px; /* Ajusta el tamaño del logo */
+  margin: 0 auto 20px; /* Centra el logo y agrega un margen inferior */
+  display: block; /* Asegura que sea un bloque */
+}
+
 
 @media (max-width: 768px) {
   #about img {

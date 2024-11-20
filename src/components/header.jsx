@@ -8,22 +8,18 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h1>
-                  Fundación Protegeme
-                  <span></span>
-                </h1>
+                <img src="img/logo.png" alt="Fundación Protegeme Logo" className="header-logo" />
+                <h1>FUNDACIÓN PROTEGEME</h1>
                 <p>Unidos por la infancia, comprometidos con su bienestar</p>
-                <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Contactanos Ahora!
-                </a>{" "}
+                <a href="#contact" className="btn btn-custom btn-lg">
+                  Contáctanos Ahora!
+                </a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </header>
+
   );
 };
