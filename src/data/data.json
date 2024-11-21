@@ -56,34 +56,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-heart",
+      "name": "Asistencia Psicológica",
+      "text": "Ofrecemos apoyo emocional a menores de edad y sus familias para ayudarles a superar los efectos del abuso y encontrar mecanismos para reintegrarse positivamente en la sociedad."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Capacitación a Profesionales",
+      "text": "Organizamos talleres y capacitaciones dirigidos a psicólogos, abogados, médicos y trabajadores sociales para fortalecer sus conocimientos en la prevención y atención de casos de abuso infantil."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-comments",
+      "name": "Charlas de Concientización",
+      "text": "Llevamos a cabo charlas educativas en comunidades, escuelas y centros de atención para informar sobre cómo prevenir el abuso infantil y fomentar un entorno seguro."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-gavel",
+      "name": "Orientación Legal",
+      "text": "Ofrecemos asesoría jurídica gratuita a las familias de los menores afectados para ayudarlas a entender sus derechos y acompañarlas en el proceso legal correspondiente."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-phone",
+      "name": "Línea de Ayuda",
+      "text": "Contamos con una línea de ayuda confidencial para que cualquier persona pueda reportar casos de abuso infantil o solicitar información y orientación."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Programas de Intervención Familiar",
+      "text": "Diseñamos programas personalizados para apoyar a las familias en crisis, ayudándolas a construir relaciones más saludables y prevenir futuros casos de abuso."
     }
   ],
   "Testimonials": [

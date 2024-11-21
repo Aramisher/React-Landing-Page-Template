@@ -5,10 +5,9 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>NUESTROS SERVICIOS</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Trabajamos incansablemente para ofrecer apoyo integral y prevenir el abuso infantil. Estos son algunos de los servicios que ponemos a disposición de nuestra comunidad.
           </p>
         </div>
         <div className="row">

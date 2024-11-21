@@ -108,7 +108,7 @@ hr {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
   color: #ffffff;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   padding: 8px 2px;
   border-radius: 0;
@@ -378,6 +378,12 @@ header .intro-text {
 #services .service-desc {
   margin-bottom: 40px;
 }
+.col-md-4 {
+  padding-right: 11px;
+  padding-left: 11px;
+}
+
+
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
