@@ -474,23 +474,49 @@ header .intro-text {
   color: #666;
 }
 /* Team Section */
+/* Team Section */
 #team {
   padding: 100px 0;
+  text-align: center; /* Centra todo el contenido dentro de la sección */
 }
+
 #team h4 {
-  margin: 5px 0;
+  margin: 10px 0; /* Ajusta el espacio entre el nombre y otros elementos */
+  font-weight: 700; /* Resalta el nombre */
+  font-size: 22px; /* Tamaño más destacado */
 }
+
 #team .team-img {
-  width: 240px;
+  width: 240px; /* Tamaño de la imagen */
+  height: 240px; /* Hace que la imagen sea cuadrada */
+  border-radius: 50%; /* Hace que la imagen sea redonda */
+  margin: 0 auto 20px; /* Centra la imagen y agrega espacio debajo */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Sombra suave */
+  object-fit: cover; /* Asegura que la imagen no se distorsione */
 }
+
 #team .thumbnail {
-  background: transparent;
-  border: 0;
+  background: transparent; /* Sin fondo */
+  border: none; /* Elimina el borde */
+  padding: 20px; /* Espacio interno */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  border-radius: 8px; /* Bordes redondeados */
+  max-width: 300px; /* Limita el ancho máximo del contenedor */
+  margin: 0 auto; /* Centra el contenedor */
 }
+
 #team .thumbnail .caption {
-  padding: 10px 0 0;
-  color: #888;
+  padding: 10px 0 0; /* Ajusta el espacio interno del texto */
+  color: #555; /* Color más tenue para el texto */
 }
+
+#team p {
+  font-size: 16px; /* Tamaño del texto del puesto */
+  color: #777; /* Color más tenue */
+  margin-bottom: 0; /* Elimina márgenes inferiores */
+}
+
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
